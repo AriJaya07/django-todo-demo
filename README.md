@@ -2,7 +2,7 @@
 This simple project to create, delete, done and pending activites, we can check daily activites  with Todo List
 
 ### Adding module database for production setting
-visit => github.com/jacobian/dj-database-url
+[jacobian/dj-database-url](github.com/jacobian/dj-database-url)
 
     # Installation
     pip install dj-database-url
